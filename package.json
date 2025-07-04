@@ -20,6 +20,7 @@
   "dependencies": {
     "@lucia-auth/adapter-mongodb": "^1.0.3",
     "@nuxt/image": "^1.7.0",
+    "node-fetch": "^3.3.2",
     "@pinia/nuxt": "^0.5.4",
     "@types/bcryptjs": "^2.4.6",
     "bcryptjs": "^2.4.3",
